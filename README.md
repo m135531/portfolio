@@ -1,7 +1,6 @@
-# Mahnoor Amjad - Personal Portfolio
+# Mahnoor - Personal Portfolio
 
 **Course:** CS344 Web Engineering  
-**Registration No.:** 503202  
 **Section:** SE15A
 
 This project is the updated personal portfolio for the CSS, project organization, Git, and GitHub Pages lab.
